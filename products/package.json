@@ -7,7 +7,7 @@
     "start": "webpack serve"
   },
   "dependencies": {
-    "@faker-js/faker": "^6.1.2",
+    "@faker-js/faker": "4.1.0",
     "faker": "^6.6.6",
     "html-webpack-plugin": "^5.5.0",
     "webpack": "^5.72.0",

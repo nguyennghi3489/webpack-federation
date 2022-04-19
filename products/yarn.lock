@@ -7,10 +7,10 @@
   resolved "https://registry.yarnpkg.com/@discoveryjs/json-ext/-/json-ext-0.5.7.tgz#1d572bfbbe14b7704e0ba0f39b74815b84870d70"
   integrity sha512-dBVuXR082gk3jsFp7Rd/JI4kytwGHecnCoTtXFb7DB6CNHp4rg5k1bhg0nWdLGLnOV71lmDzGQaLMy8iPLY0pw==
 
-"@faker-js/faker@^6.1.2":
-  version "6.1.2"
-  resolved "https://registry.yarnpkg.com/@faker-js/faker/-/faker-6.1.2.tgz#7093ea65e6d78eae388918a46968c083366bd621"
-  integrity sha512-QSvmexHCxeRUk1/yKmoEDaWB5Hohjvtim5g2JJwy8S/l0L4b3y/GxSpE6vN4SBoVGGahEQW21uqyRr7EofI35A==
+"@faker-js/faker@4.1.0":
+  version "4.1.0"
+  resolved "https://registry.yarnpkg.com/@faker-js/faker/-/faker-4.1.0.tgz#53f965b60ec929c8ae5e3c1977bfc00d0f7b7295"
+  integrity sha512-PhF1yIVv8wupIFPSlL4gPz0z4RbOD9MLQHEMw5xoMrQ1J4rj76eivi0PwmW0K/puRPpHLE4gnrJ7AlTkgORhQA==
 
 "@leichtgewicht/ip-codec@^2.0.1":
   version "2.0.3"
